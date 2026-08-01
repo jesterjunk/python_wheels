@@ -1,0 +1,17 @@
+fpylll: 0.6.4
+fplll: 5.5.0 plus MinGW patch c914d0d8da601ad8a23721cb9b51f9672014c4f1
+Target Python: 3.11.11 | packaged by Anaconda, Inc. | (main, Dec 11 2024, 16:34:19) [MSC v.1929 64 bit (AMD64)]
+Target executable: C:\Users\jesterjunk\.conda\envs\env311\python.exe
+Target NumPy used for ABI test: 2.4.6
+Wheel tag: cp311-cp311-win_amd64
+Compiler: MSYS2 UCRT64 MinGW-w64 GCC
+CPython header fix: MS_WIN64=1
+fplll MinGW math fix: M_LN2 replaced with log(2.0)
+DLL bundling: delvewheel
+Runtime dependencies: cysignals>=1.12.5, numpy==2.4.6
+Build dependencies: isolated virtual environment
+Smoke test: wheel-only install into a clean native Windows CPython 3.11 virtual environment
+QD support: disabled
+
+This wheel is for 64-bit native Windows CPython 3.11 environments with the
+win_amd64 ABI. It is not an MSYS2-Python wheel.
