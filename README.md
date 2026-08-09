@@ -1,4 +1,6 @@
-<h3>Python Wheels</h3>
+<h3 class="site-title">
+    <a href="/python_wheels/">Python Wheels</a>
+</h3>
 
 <table>
 
