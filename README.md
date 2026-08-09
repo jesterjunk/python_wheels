@@ -1,5 +1,5 @@
 <h3 class="site-title">
-    <a href="/python_wheels/">Python Wheels</a>
+    <a href="https://jesterjunk.github.io/python_wheels/">Python Wheels</a>
 </h3>
 
 <table>
