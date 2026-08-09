@@ -1,2 +1,35 @@
-# python_wheels
-Python Wheels
+<h3>Python Wheels</h3>
+
+<table>
+
+<tr>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl">cysignals-1.12.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.blake3">blake3</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sha256">sha256</a></td>
+</tr><tr></tr>
+
+<tr>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-win_amd64.whl">cysignals-1.12.5-cp311-cp311-win_amd64.whl</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-win_amd64.whl.blake3">blake3</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.5-cp311-cp311-win_amd64.whl.sha256">sha256</a></td>
+</tr><tr></tr>
+
+<tr>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.6-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl">cysignals-1.12.6-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.6-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.blake3">blake3</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/cysignals/cysignals-1.12.6-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.sha256">sha256</a></td>
+</tr><tr></tr>
+
+<tr>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp311-cp311-win_amd64.whl">fpylll/fpylll-0.6.4-cp311-cp311-win_amd64.whl</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp311-cp311-win_amd64.whl.blake3">blake3</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp311-cp311-win_amd64.whl.sha256">sha256</a></td>
+</tr><tr></tr>
+
+<tr>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl">fpylll/fpylll-0.6.4-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.blake3">blake3</a></td>
+<td><a href="https://jesterjunk.github.io/python_wheels/fpylll/fpylll-0.6.4-cp313-cp313-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.sha256">sha256</a></td>
+</tr>
+
+</table>
